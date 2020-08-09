@@ -5,5 +5,5 @@
 * NumberFormat class
 * DecimalFormat class
 * Scanner Class
-- keyboard input
-- file input 
+  - keyboard input
+  - file input 
